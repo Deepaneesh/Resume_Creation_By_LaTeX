@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.30)  4 MAY 2025 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.30)  19 JUN 2025 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -94,28 +94,174 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language79
 LaTeX Info: Redefining \_ on input line 43.
 )
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count267
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4064.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count271
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen156
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count272
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring ON on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip53
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome
+.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome
+symbols-generic.tex)
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\fontawesome
+symbols-pdftex.tex))
 (C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count267
+\l__color_backend_stack_int=\count278
 \l__pdf_internal_box=\box53
 ) (resume code.aux)
 \openout1 = `"resume code.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -151,80 +297,107 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
-Overfull \hbox (28.07239pt too wide) in paragraph at lines 33--34
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen159
+\scratchbox=\box54
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen160
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks22
+))
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+Package hyperref Info: Link coloring ON on input line 17.
+ (resume code.out) (resume code.out)
+\@outlinefile=\write3
+\openout3 = `"resume code.out"'.
+
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 25.
+
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesom
+etwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+Overfull \hbox (28.07239pt too wide) in paragraph at lines 39--40
 []\OT1/cmr/m/n/10.95 Adaptable and quick-learning pro-fes-sional seek-ing a rol
 e to con-tribute to a dy-namic team with problem-solving
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--44
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
+Underfull \hbox (badness 10000) in paragraph at lines 51--55
 
  []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 92.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 92.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 92.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+08.
+(C:\Users\deepa\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 108.
 
 [1
 
-{C:/Users/deepa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 89--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--111
-
- []
-
-[2]
-Overfull \hbox (3.22195pt too wide) in paragraph at lines 138--139
-\OT1/cmr/m/n/10.95 of con-tin-u-ous mon-i-tor-ing, tai-lored in-ter-ven-tions, 
-and fur-ther model val-i-da-tion to en-hance long-term
- []
-
-[3] (resume code.aux)
+{C:/Users/deepa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/deep
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}
+] [2] (resume code.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+Package rerunfilecheck Info: File `"resume code".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 2520 strings out of 474486
- 41344 string characters out of 5743755
- 1934542 words of memory out of 5000000
- 24823 multiletter control sequences out of 15000+600000
- 562836 words of font info for 52 fonts, out of 8000000 for 9000
+ 10848 strings out of 474486
+ 169181 string characters out of 5743755
+ 1939542 words of memory out of 5000000
+ 33026 multiletter control sequences out of 15000+600000
+ 563330 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1204b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,6n,67p,1204b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\deepa\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1095.pk><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/deepa/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/deepa/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "resume code.pdf" (3 pages, 94531 bytes).
+1095.pk><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaw
+esome/FontAwesome.pfb><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx10.pfb><C:/Users/deepa/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/deepa/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/deepa/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/deepa/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/deepa
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "resume code.pdf" (2 pages, 119110 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
